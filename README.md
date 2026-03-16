@@ -1,176 +1,63 @@
-<!-- ================= HEADER ================= -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:21262d&height=200&section=header&text=Thiruselvam%20M&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=AI%20%C2%B7%20Full%20Stack%20%C2%B7%20Browser%20Engineering&descAlignY=55&descSize=18"/>
-
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=AI+%7C+Full+Stack+Developer;Chrome+Extension+Engineer;Deepfake+Detection+Researcher;MCA+Student+%40+SRM+Easwari+Engineering+College" />
-</a>
-
-</div>
-
-<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%" />
-
----
-
-## <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="22"> About Me 👋
-
-I'm **THIRUSELVAM**, a Computer Science graduate currently pursuing **MCA at SRM Easwari Engineering College**.
-
-I enjoy building systems at the intersection of:
-
-- <img src="https://www.azorobotics.com/images/Article_Images/ImageForArticle_270_45642854902789357942.jpg" width="22"> Artificial Intelligence  
-- <img src="https://visualwebz.com/wp-content/uploads/2016/11/full-stack-developer.jpg" width="22"> Full-Stack Development  
-- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkMxwWL_seFuC7UYNC_D0eH9WXMbxKk-ZUVvIhzC7i-A&s" width="30"> Browser Engineering
-- <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="22"> Exploring New tech  
-
-My focus is on **practical AI tools and intelligent web systems**.
-
----
-
-# <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="22"> Current Focus
-
-| Area | What I'm Exploring |
-|-----|-------------------|
-| Machine Learning | Model optimization & deployment |
-| Computer Vision | Deepfake detection & visual analysis |
-| Browser Engineering | Chrome Extensions & DOM automation |
-| Software Engineering | Scalable full-stack architectures |
-
----
-
-# <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="22">🛠️ Tech Stack
-
-## Languages
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-## AI & Data
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy)
-
-## Web & Frameworks
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask)
-![Chrome Extensions](https://img.shields.io/badge/Chrome_Extensions-4285F4?style=flat-square&logo=googlechrome)
-
-## Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse)
-
----
-
-# <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="22">📌 Featured Projects
-
-## <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="22">🧠 AI Prompt Optimizer Chrome Extension
-
-**Stack:** JavaScript • Chrome Extensions API • Gemini API • Groq API
-
-A Chrome Extension that transforms vague prompts into structured prompts before sending them to AI models.
-
-Key features:
-
-- Zero-dependency offline prompt optimizer
-- Keyword-based prompt classification
-- Dynamic prompt template generation
-- Multi-provider fallback chain
-- MutationObserver DOM injection
-
----
-
-## <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="22">🔥 Deepfake Detection System
-
-**Stack:** Python • Flask • React • TensorFlow • OpenCV
-
-A full-stack deepfake detection platform using computer vision.
-
-Pipeline:
-
-Video Input  
-→ Frame Extraction  
-→ Face Detection  
-→ Feature Analysis  
-→ Machine Learning Classification  
-→ Fake / Real Prediction
-
-Highlights:
-
-- React UI with Flask REST API
-- 5-layer detection architecture
-- ~90% model accuracy
-
----
-
-## <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="22">🎮 Multiplayer Tic-Tac-Toe
-
-**Stack:** Java • Socket Programming • JavaFX • MySQL
-
-A real-time multiplayer game using a client-server architecture.
-
-Features:
-
-- Java socket communication
-- JavaFX game interface
-- Real-time synchronization
-- MySQL leaderboard system
-
----
-
-# <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="22">🎓 Education
-
-| Institution | Program | Period | CGPA |
-|-------------|--------|-------|------|
-| SRM Easwari Engineering College | MCA | 2025 – Present | 8.54 |
-| Vel Tech Ranga Sanku Arts College | B.Sc Computer Science | 2022 – 2025 | 8.20 |
-
----
-
-# <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="22">📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Thiru-Selvam-06&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiru-Selvam-06&layout=compact&theme=github_dark&hide_border=true"/>
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Thiru-Selvam-06&theme=github-dark-blue&hide_border=true"/>
-
-</div>
-
----
-
-# 🌐 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/thiru-selvam-081017342)
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Thiru-Selvam-06)
-
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail)](mailto:thiruselvam400@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Thiru-Selvam-06&color=58a6ff&style=flat-square&label=Profile+Views"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:21262d,50:161b22,100:0d1117&height=100&section=footer"/>
-
-<!-- ================= END ================= -->
+<!-- ===== Section Heading Pattern (30px icon aligned) ===== -->
+
+<h2 style="display:flex;align-items:center;gap:10px;margin-top:24px;">
+  <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="30" height="30">
+  <span>About Me 👋</span>
+</h2>
+
+<p>
+I'm <strong>THIRUSELVAM</strong>, a Computer Science graduate currently pursuing 
+<strong>MCA at SRM Easwari Engineering College</strong>.
+</p>
+
+<p>I enjoy building systems at the intersection of:</p>
+
+<ul>
+<li><img src="https://www.azorobotics.com/images/Article_Images/ImageForArticle_270_45642854902789357942.jpg" width="30" style="vertical-align:middle;"> Artificial Intelligence</li>
+<li><img src="https://visualwebz.com/wp-content/uploads/2016/11/full-stack-developer.jpg" width="30" style="vertical-align:middle;"> Full-Stack Development</li>
+<li><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkMxwWL_seFuC7UYNC_D0eH9WXMbxKk-ZUVvIhzC7i-A&s" width="30" style="vertical-align:middle;"> Browser Engineering</li>
+<li><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQj0-CBytRDZIXuDsFw2jXU7v1I6Zk4kVjaA&s" width="30" style="vertical-align:middle;"> Exploring New Tech</li>
+</ul>
+
+
+<!-- ===== Another Section Example ===== -->
+
+<h2 style="display:flex;align-items:center;gap:10px;margin-top:24px;">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJNhJOKUprplzvaQMX8r-ViKkdrsjVHBR_Bg&s" width="30" height="30">
+  <span>Current Focus</span>
+</h2>
+
+<table>
+<tr>
+<th>Area</th>
+<th>What I'm Exploring</th>
+</tr>
+
+<tr>
+<td>Machine Learning</td>
+<td>Model optimization & deployment</td>
+</tr>
+
+<tr>
+<td>Computer Vision</td>
+<td>Deepfake detection & visual analysis</td>
+</tr>
+
+<tr>
+<td>Browser Engineering</td>
+<td>Chrome Extensions & DOM automation</td>
+</tr>
+
+<tr>
+<td>Software Engineering</td>
+<td>Scalable full-stack architectures</td>
+</tr>
+</table>
+
+
+<!-- ===== Projects Section Example ===== -->
+
+<h2 style="display:flex;align-items:center;gap:10px;margin-top:24px;">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkNLdxzyd9mMDUzCafwXoePXmaWd2IUTaexw&s" width="30" height="30">
+  <span>Featured Projects</span>
+</h2>
