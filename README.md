@@ -1,22 +1,22 @@
-<!-- ================= HEADER ================= -->
+&lt;!-- ================= HEADER ================= --&gt;
 
-<div align="center">
+&lt;div align="center"&gt;
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:21262d&height=200&section=header&text=THIRUSELVAM%20&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=AI%20%C2%B7%20Full%20Stack%20%C2%B7%20Browser%20Engineering&descAlignY=55&descSize=18"/>
+&lt;img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:21262d&height=200&section=header&text=THIRUSELVAM%20&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=AI%20%C2%B7%20Full%20Stack%20%C2%B7%20Browser%20Engineering&descAlignY=55&descSize=18"/&gt;
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=AI+%7C+Full+Stack+Developer;Chrome+Extension+Engineer;Deepfake+Detection+Researcher;MCA+Student+%40+SRM+Easwari+Engineering+College" />
-</a>
+&lt;a href="https://git.io/typing-svg"&gt;
+&lt;img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=AI+%7C+Full+Stack+Developer;Chrome+Extension+Engineer;Deepfake+Detection+Researcher;MCA+Student+%40+SRM+Easwari+Engineering+College" /&gt;
+&lt;/a&gt;
 
-</div>
+&lt;/div&gt;
 
-<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%" />
+&lt;img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%" /&gt;
 
 ---
 
 # 👋 About Me
 
-I'm **Thiruselvam M**, a Computer Science graduate currently pursuing **MCA at SRM Easwari Engineering College**.
+I'm **Thiruselvam**, a Computer Science graduate currently pursuing **MCA at SRM Easwari Engineering College**.
 
 I enjoy building systems at the intersection of:
 
@@ -136,23 +136,36 @@ Features:
 
 # 📊 GitHub Analytics
 
-<div align="center">
+&lt;div align="center"&gt;
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Thiru-Selvam-06&show_icons=true&theme=github_dark&hide_border=true"/>
+&lt;!-- Custom Language Stats - Excluding Jupyter Notebook to show actual code languages --&gt;
+&lt;img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiru-Selvam-06&layout=compact&theme=github_dark&hide_border=true&hide=jupyter%20notebook&langs_count=8"/&gt;
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiru-Selvam-06&layout=compact&theme=github_dark&hide_border=true"/>
+&lt;img height="170em" src="https://github-readme-stats.vercel.app/api?username=Thiru-Selvam-06&show_icons=true&theme=github_dark&hide_border=true"/&gt;
 
-<br>
+&lt;br&gt;
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Thiru-Selvam-06&theme=github-dark-blue&hide_border=true"/>
+&lt;img src="https://github-readme-streak-stats.herokuapp.com/?user=Thiru-Selvam-06&theme=github-dark-blue&hide_border=true"/&gt;
 
-</div>
+&lt;/div&gt;
+
+&lt;!-- Language Distribution Badges --&gt;
+&lt;div align="center"&gt;
+
+### 💻 Primary Languages by Project
+
+| Python | Java | JavaScript | HTML/CSS |
+|:------:|:----:|:----------:|:--------:|
+| ![Python](https://img.shields.io/badge/Deepfake%20Detection-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Java](https://img.shields.io/badge/Tic--Tac--Toe%20Game-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) | ![JavaScript](https://img.shields.io/badge/Chrome%20Extension-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![React](https://img.shields.io/badge/Frontend%20UI-61DAFB?style=for-the-badge&logo=react&logoColor=black) |
+| TensorFlow • Flask • OpenCV | Socket Programming • JavaFX | Manifest V3 • DOM API | React • CSS3 |
+
+&lt;/div&gt;
 
 ---
 
 # 🌐 Connect With Me
 
-<div align="center">
+&lt;div align="center"&gt;
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/thiru-selvam-081017342)
 
@@ -160,16 +173,16 @@ Features:
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail)](mailto:thiruselvam400@gmail.com)
 
-</div>
+&lt;/div&gt;
 
 ---
 
-<div align="center">
+&lt;div align="center"&gt;
 
-<img src="https://komarev.com/ghpvc/?username=Thiru-Selvam-06&color=58a6ff&style=flat-square&label=Profile+Views"/>
+&lt;img src="https://komarev.com/ghpvc/?username=Thiru-Selvam-06&color=58a6ff&style=flat-square&label=Profile+Views"/&gt;
 
-</div>
+&lt;/div&gt;
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:21262d,50:161b22,100:0d1117&height=100&section=footer"/>
+&lt;img src="https://capsule-render.vercel.app/api?type=waving&color=0:21262d,50:161b22,100:0d1117&height=100&section=footer"/&gt;
 
-<!-- ================= END ================= -->
+&lt;!-- ================= END ================= --&gt;
