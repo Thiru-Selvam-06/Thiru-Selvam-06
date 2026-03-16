@@ -14,15 +14,16 @@
 
 ---
 
-# 👋 About Me
+## <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="22"> About Me
 
-I'm **Thiruselvam M**, a Computer Science graduate currently pursuing **MCA at SRM Easwari Engineering College**.
+I'm **THIRUSELVAM**, a Computer Science graduate currently pursuing **MCA at SRM Easwari Engineering College**.
 
 I enjoy building systems at the intersection of:
 
 - 🤖 Artificial Intelligence  
 - 🌐 Full-Stack Development  
-- 🧩 Browser Engineering  
+- 🧩 Browser Engineering
+- 🕹️ Exploring New tech  
 
 My focus is on **practical AI tools and intelligent web systems**.
 
