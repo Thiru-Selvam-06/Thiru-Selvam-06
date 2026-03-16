@@ -1,73 +1,222 @@
-# Hi, I'm Thiruselvam M 👋
+<!--
+Professional GitHub Profile README
+Environment: GitHub Markdown Renderer
+Technologies: Markdown + HTML + Shields.io + GitHub Readme Stats
+Compatible with GitHub profile repositories
+-->
 
-I'm a **Computer Science graduate** currently pursuing my **MCA at SRM Easwari Engineering College**. I build things at the intersection of AI, full-stack development, and browser engineering — from deepfake detection systems to Chrome extensions that make AI tools smarter.
+<h1 align="center">Hi 👋 I'm Thiruselvam M</h1>
 
----
+<p align="center">
+Computer Science Graduate • MCA Student • AI & Full-Stack Developer
+</p>
 
-## 🚀 What I'm Working On
-
-- 🔍 Deepening my knowledge in **Machine Learning & Computer Vision**
-- 🧩 Building browser tools that enhance AI workflows
-- 📚 Pursuing MCA with a focus on applied software engineering
-
----
-
-## 🛠️ Tech Stack
-
-| Category | Technologies |
-|---|---|
-| **Languages** | Java · Python · JavaScript · MySQL · HTML · CSS |
-| **Frameworks & Libraries** | React · Flask · TensorFlow · OpenCV · Pandas · NumPy · Matplotlib |
-| **Tools** | Git · VS Code · Eclipse · Chrome Extensions API |
-| **Concepts** | Machine Learning · Computer Vision · Socket Programming · REST APIs · DOM Manipulation |
+<p align="center">
+Building intelligent systems, browser tools, and scalable applications.
+</p>
 
 ---
 
-## 📌 Featured Projects
+## 🚀 About Me
 
-### 🔥 [AI Prompt Optimizer Chrome Extension](https://github.com/Thiru-Selvam-06)
-> *JavaScript · Chrome Extensions API · Gemini API · Groq API*
-
-A Chrome Extension (Manifest V3) that transforms vague prompts into structured, expert-level prompts before they reach ChatGPT or Claude.
-
-- Built a **zero-dependency offline engine** using keyword scoring + template scaffolding — no API key needed, runs entirely in-browser
-- Designed a **7-category classification system** with weighted keyword detection and dynamic prompt assembly (role injection, task reframing, output formatting)
-- Integrated **Gemini 2.0 Flash & Groq Llama 3.3 70B** with a 3-tier fallback chain: preferred provider → fallback provider → local engine
-- Engineered **MutationObserver-based DOM injection** to attach UI dynamically into ChatGPT and Claude across `textarea`, `contenteditable`, and ProseMirror editors
+* 🎓 MCA Student at **SRM Easwari Engineering College**
+* 💻 Computer Science Graduate
+* 🤖 Interested in **Machine Learning & Computer Vision**
+* 🌐 Building **AI-powered browser tools**
+* 🧠 Passionate about solving real-world problems through software
 
 ---
 
-### 🧠 [Deepfake Detection System](https://github.com/Thiru-Selvam-06)
-> *Python · Flask · React · TensorFlow · OpenCV*
+## 🧠 Current Focus
 
-A full-stack deepfake detection platform with a multi-layer computer vision pipeline.
-
-- Applied **5-layer detection**: noise residuals, warping artifacts, blur patterns, steganalysis, and facial landmarks
-- Integrated **React frontend with Flask REST API** for real-time video analysis and result visualization
-- Achieved **90% detection accuracy** through iterative model training and hyperparameter optimization
-
----
-
-### 🎮 [Multiplayer Tic-Tac-Toe](https://github.com/Thiru-Selvam-06)
-> *Java · Socket Programming · JavaFX · MySQL*
-
-A real-time multiplayer game built on a client-server architecture.
-
-- Implemented **Java socket programming** for low-latency real-time synchronization
-- Designed a **JavaFX GUI** for an intuitive in-game experience
-- Built a **MySQL-backed leaderboard** to track and persist player statistics
+| Area                   | Description                                |
+| ---------------------- | ------------------------------------------ |
+| Machine Learning       | Improving ML model training and evaluation |
+| Computer Vision        | Deepfake detection & image analysis        |
+| Browser Engineering    | Chrome Extensions and DOM automation       |
+| Full Stack Development | React + Flask architecture                 |
 
 ---
 
-## 🎓 Education
+# ⚡ Tech Stack
 
-- 🎓 **MCA** — SRM Easwari Engineering College *(Sep 2025 – Present)* · CGPA: 8.54
-- 🎓 **B.Sc. Computer Science** — Vel Tech Ranga Sanku Arts College *(Aug 2022 – May 2025)* · CGPA: 8.20
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,mysql,html,css" />
+</p>
+
+### Frameworks & Libraries
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,flask,tensorflow" />
+</p>
+
+Libraries
+• Pandas
+• NumPy
+• Matplotlib
+• OpenCV
 
 ---
 
-## 📫 Let's Connect
+# 🧩 Core Concepts
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thiru-selvam-081017342/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Thiru-Selvam-06)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thiruselvam400@gmail.com)
+Machine Learning
+Computer Vision
+Socket Programming
+REST API Design
+DOM Manipulation
+Client–Server Architecture
+
+---
+
+# 📌 Featured Projects
+
+---
+
+## 🔥 AI Prompt Optimizer Chrome Extension
+
+**Tech:** JavaScript • Chrome Extensions API • Gemini API • Groq API
+
+A Chrome Extension (Manifest V3) that converts vague prompts into structured expert-level prompts before sending them to AI models.
+
+### Key Features
+
+✔ Zero-dependency offline prompt optimizer
+✔ Keyword scoring classification engine
+✔ Dynamic prompt template generator
+✔ AI provider fallback system
+✔ DOM injection into ChatGPT and Claude
+
+### Architecture
+
+User Prompt
+↓
+Classification Engine
+↓
+Prompt Template Generator
+↓
+AI Provider Layer
+(Gemini / Groq / Local Engine)
+↓
+Optimized Prompt Output
+
+### Engineering Techniques
+
+* MutationObserver based DOM injection
+* ProseMirror editor compatibility
+* Multi-provider fallback chain
+* Offline prompt optimization engine
+
+---
+
+## 🧠 Deepfake Detection System
+
+**Tech:** Python • Flask • React • TensorFlow • OpenCV
+
+A full-stack deepfake detection platform combining computer vision and machine learning.
+
+### Detection Pipeline
+
+Input Video
+↓
+Frame Extraction
+↓
+Face Detection
+↓
+Feature Analysis
+• Noise Residuals
+• Warping Artifacts
+• Blur Patterns
+• Steganalysis
+• Facial Landmarks
+↓
+ML Classification
+↓
+Real/Fake Prediction
+
+### Features
+
+* React frontend for real-time uploads
+* Flask REST API backend
+* TensorFlow model integration
+* Achieved **~90% detection accuracy**
+
+---
+
+## 🎮 Multiplayer Tic-Tac-Toe
+
+**Tech:** Java • Socket Programming • JavaFX • MySQL
+
+A real-time multiplayer game built with a client-server architecture.
+
+### System Design
+
+Player 1 Client
+↓
+Server
+↓
+Player 2 Client
+
+### Features
+
+* Java socket communication
+* Real-time board synchronization
+* JavaFX graphical interface
+* MySQL leaderboard storage
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Thiru-Selvam-06&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiru-Selvam-06&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Thiru-Selvam-06&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 Achievements
+
+* Built **AI Prompt Optimizer Chrome Extension**
+* Developed **Deepfake Detection ML System**
+* Created **Real-time Multiplayer Java Game**
+* Intern at **1M1B Future Leaders Program**
+
+---
+
+# 📫 Connect With Me
+
+<p>
+
+<a href="https://linkedin.com/in/thiru-selvam-081017342/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/Thiru-Selvam-06">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="mailto:thiruselvam400@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+⭐ If you like my work, consider following my GitHub.
