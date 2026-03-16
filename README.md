@@ -22,7 +22,7 @@ I enjoy building systems at the intersection of:
 
 - <img src="https://www.azorobotics.com/images/Article_Images/ImageForArticle_270_45642854902789357942.jpg" width="22"> Artificial Intelligence  
 - <img src="https://visualwebz.com/wp-content/uploads/2016/11/full-stack-developer.jpg" width="22"> Full-Stack Development  
-- <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="22"> Browser Engineering
+- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkMxwWL_seFuC7UYNC_D0eH9WXMbxKk-ZUVvIhzC7i-A&s" width="30"> Browser Engineering
 - <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="22"> Exploring New tech  
 
 My focus is on **practical AI tools and intelligent web systems**.
