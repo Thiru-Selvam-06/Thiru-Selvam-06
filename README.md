@@ -138,26 +138,9 @@ Features:
 
 <div align="center">
 
-<!-- Custom Language Stats - Excluding Jupyter Notebook to show actual code languages -->
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiru-Selvam-06&layout=compact&theme=github_dark&hide_border=true&hide=jupyter%20notebook&langs_count=8"/>
-
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Thiru-Selvam-06&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<br>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thiru-Selvam-06&theme=github-dark-blue&hide_border=true"/>
-
-</div>
-
-<!-- Language Distribution Badges -->
-<div align="center">
-
-### 💻 Primary Languages by Project
-
-| Python | Java | JavaScript | HTML/CSS |
-|:------:|:----:|:----------:|:--------:|
-| ![Python](https://img.shields.io/badge/Deepfake%20Detection-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Java](https://img.shields.io/badge/Tic--Tac--Toe%20Game-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) | ![JavaScript](https://img.shields.io/badge/Chrome%20Extension-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![React](https://img.shields.io/badge/Frontend%20UI-61DAFB?style=for-the-badge&logo=react&logoColor=black) |
-| TensorFlow • Flask • OpenCV | Socket Programming • JavaFX | Manifest V3 • DOM API | React • CSS3 |
 
 </div>
 
@@ -167,7 +150,7 @@ Features:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/thiru-selvam-081017342)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/thiruselvam-m-081017342)
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Thiru-Selvam-06)
 
