@@ -142,7 +142,54 @@ Features:
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thiru-Selvam-06&theme=github-dark-blue&hide_border=true"/>
 
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiru-Selvam-06&layout=compact&theme=github_dark&hide_border=true&hide=jupyter%20notebook&langs_count=10"/>
+
 </div>
+
+---
+
+## 💻 Language Distribution by Project Work
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/Python-40%25-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117"/>
+      <br>
+      <sub>Deepfake Detection<br>ML Models • Flask API<br>OpenCV • TensorFlow</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/Java-30%25-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0d1117"/>
+      <br>
+      <sub>Multiplayer Game<br>Socket Programming<br>JavaFX • MySQL</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/JavaScript-20%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0d1117"/>
+      <br>
+      <sub>Chrome Extension<br>DOM Manipulation<br>API Integration</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/HTML%2FCSS-10%25-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0d1117"/>
+      <br>
+      <sub>Frontend UI<br>React Components<br>Responsive Design</sub>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+### 🔧 Repository Language Breakdown
+
+| Project | Primary | Secondary | Lines of Code |
+|:--------|:-------:|:---------:|:-------------:|
+| **Deepfake Detection** | ![Python](https://img.shields.io/badge/Python-85%25-3776AB?style=flat&logo=python&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JS-15%25-F7DF1E?style=flat&logo=javascript&logoColor=black) | ~2,500 |
+| **AI Prompt Optimizer** | ![JavaScript](https://img.shields.io/badge/JavaScript-90%25-F7DF1E?style=flat&logo=javascript&logoColor=black) | ![HTML](https://img.shields.io/badge/HTML-10%25-E34F26?style=flat&logo=html5&logoColor=white) | ~1,800 |
+| **Tic-Tac-Toe** | ![Java](https://img.shields.io/badge/Java-95%25-ED8B00?style=flat&logo=openjdk&logoColor=white) | ![SQL](https://img.shields.io/badge/SQL-5%25-4479A1?style=flat&logo=mysql&logoColor=white) | ~2,200 |
 
 ---
 
