@@ -14,22 +14,22 @@
 
 ---
 
-## <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="22"> About Me
+## <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="22"> About Me 👋
 
 I'm **THIRUSELVAM**, a Computer Science graduate currently pursuing **MCA at SRM Easwari Engineering College**.
 
 I enjoy building systems at the intersection of:
 
-- 🤖 Artificial Intelligence  
-- 🌐 Full-Stack Development  
-- 🧩 Browser Engineering
-- 🕹️ Exploring New tech  
+- <img src="https://www.azorobotics.com/images/Article_Images/ImageForArticle_270_45642854902789357942.jpg" width="22"> Artificial Intelligence  
+- <img src="https://visualwebz.com/wp-content/uploads/2016/11/full-stack-developer.jpg"> Full-Stack Development  
+- <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="22"> Browser Engineering
+- <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="22"> Exploring New tech  
 
 My focus is on **practical AI tools and intelligent web systems**.
 
 ---
 
-# 🎯 Current Focus
+# <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="22"> Current Focus
 
 | Area | What I'm Exploring |
 |-----|-------------------|
@@ -40,7 +40,7 @@ My focus is on **practical AI tools and intelligent web systems**.
 
 ---
 
-# 🛠️ Tech Stack
+# <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="22">🛠️ Tech Stack
 
 ## Languages
 
@@ -70,9 +70,9 @@ My focus is on **practical AI tools and intelligent web systems**.
 
 ---
 
-# 📌 Featured Projects
+# <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="22">📌 Featured Projects
 
-## 🧠 AI Prompt Optimizer Chrome Extension
+## <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="22">🧠 AI Prompt Optimizer Chrome Extension
 
 **Stack:** JavaScript • Chrome Extensions API • Gemini API • Groq API
 
@@ -88,7 +88,7 @@ Key features:
 
 ---
 
-## 🔥 Deepfake Detection System
+## <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="22">🔥 Deepfake Detection System
 
 **Stack:** Python • Flask • React • TensorFlow • OpenCV
 
@@ -111,7 +111,7 @@ Highlights:
 
 ---
 
-## 🎮 Multiplayer Tic-Tac-Toe
+## <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="22">🎮 Multiplayer Tic-Tac-Toe
 
 **Stack:** Java • Socket Programming • JavaFX • MySQL
 
@@ -126,7 +126,7 @@ Features:
 
 ---
 
-# 🎓 Education
+# <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="22">🎓 Education
 
 | Institution | Program | Period | CGPA |
 |-------------|--------|-------|------|
@@ -135,7 +135,7 @@ Features:
 
 ---
 
-# 📊 GitHub Analytics
+# <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="22">📊 GitHub Analytics
 
 <div align="center">
 
