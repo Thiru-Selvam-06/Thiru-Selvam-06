@@ -134,22 +134,6 @@ Features:
 
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Thiru-Selvam-06&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Thiru-Selvam-06&theme=github-dark-blue&hide_border=true"/>
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiru-Selvam-06&layout=compact&theme=github_dark&hide_border=true&hide=jupyter%20notebook&langs_count=10"/>
-
-</div>
-
----
-
 ## 💻 Language Distribution by Project Work
 
 <div align="center">
